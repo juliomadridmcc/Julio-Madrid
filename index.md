@@ -47,4 +47,3 @@ University of Massachusetts Lowell, Lowell, MA
 [Script for Short MadCap Flare Tutorial](https://github.com/juliomadridmcc/Julio-Madrid/files/8744662/Week.14.Homework-.MadCap.Flare.Script-.Julio.Madrid.docx)
 
 [JBL Tune 510BT vs Apple Airpod 3: A Recommendation](https://github.com/juliomadridmcc/Julio-Madrid/files/8744673/JBL.Tune.510BT.vs.Apple.Airpods.A3.1.docx)
-
