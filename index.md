@@ -1,4 +1,3 @@
-## Resume
 Recent graduate of the Middlesex Technical Writing Certificate program exposure to tools and technologies associated with technical writing. Strengths include writing, research, and a willingness to learn new things.
 
 - [Tools](#tools)
@@ -46,4 +45,4 @@ University of Massachusetts Lowell, Lowell, MA
 
 [Script for Short MadCap Flare Tutorial](https://github.com/juliomadridmcc/Julio-Madrid/files/8744662/Week.14.Homework-.MadCap.Flare.Script-.Julio.Madrid.docx)
 
-[JBL Tune 510BT vs Apple Airpod 3: A Recommendation](https://github.com/juliomadridmcc/Julio-Madrid/files/8744673/JBL.Tune.510BT.vs.Apple.Airpods.A3.1.docx)
+[JBL Tune 510BT vs Apple Airpods 3: A Recommendation](https://github.com/juliomadridmcc/Julio-Madrid/files/8744673/JBL.Tune.510BT.vs.Apple.Airpods.A3.1.docx)
