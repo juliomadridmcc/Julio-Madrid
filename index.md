@@ -32,7 +32,7 @@ Recent graduate of the Middlesex Technical Writing Certificate program with expo
 ## Education
 Middlesex Technical Writing Program, Bedford, MA
 
-**Technical Writing Certificate (issued spring 2022)**
+**Technical Writing Certificate (issued May 2022)**
 
 University of Massachusetts Lowell, Lowell, MA  
 
