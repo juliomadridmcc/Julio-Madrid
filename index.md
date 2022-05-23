@@ -1,4 +1,4 @@
-## Resume
+# Resume
 Recent graduate of the Middlesex Technical Writing Certificate program with exposure to software and processes related to technical communication. Strengths include writing, research, and a willingness to learn new tools.
 
 - [Tools](#tools)
