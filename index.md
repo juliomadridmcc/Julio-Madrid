@@ -9,7 +9,7 @@ Recent graduate of the Middlesex Technical Writing Certificate program with expo
 ## Tools
 **Authoring:** DITA, Oxygen XML Author, Adobe FrameMaker, and Microsoft Word
 
-**Languages** HTML, CSS, Markdown, and reStructured Text
+**Languages:** HTML, CSS, Markdown, and reStructured Text
 
 **Graphics:** Adobe Photoshop and Microsoft Visio
 
