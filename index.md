@@ -1,5 +1,5 @@
 ## Resume
-Recent graduate of the Middlesex Technical Writing Certificate program with exposure to tools and processes related to technical writing. Strengths include writing, research, and a willingness to learn new things.
+Recent graduate of the Middlesex Technical Writing Certificate program with exposure to software and processes related to technical communication. Strengths include writing, research, and a willingness to learn new tools.
 
 - [Tools](#tools)
 - [Experience](#experience)
@@ -13,7 +13,7 @@ Recent graduate of the Middlesex Technical Writing Certificate program with expo
 
 **Graphics:** Adobe Photoshop and Microsoft Visio
 
-**Other:** GitHub, MadCap Flare, and SAS
+**Other:** Excel, PowerPoint, GitHub, MadCap Flare, and SAS
 
 ## Experience
 **Office Assistant, Euro Tech Auto Body Inc., Cambridge, MA (2019- Present)**
