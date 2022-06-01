@@ -1,12 +1,10 @@
 # How to complete the Laser D project: A guide for new hires
 
-- [Introduction to the Laser D](#introduction-to-the-laser-d-project)
-- [Background on Laser D](#background-on-laser-d)
-- [Corporate report filings](#corporate-report-filings)
-  
-  - [Report types](#report-types)
- 
- - [Full report](#full-report)
+* [Introduction to the Laser D](#introduction-to-the-laser-d-project)
+* [Background on Laser D](#background-on-laser-d)
+* [Corporate report filings](#corporate-report-filings)
+  * [Report types](#report-types)
+ * [Full report](#full-report)
 
 ## Introduction to the Laser D project
 
@@ -40,8 +38,7 @@ Report Type | Description
 N-1Rs | Annual or semi-annual report for registered investment companies.
 ARSs | Annual reports to shareholders.
 Proxy Statements | Notice of shareholder meeting and submission of matters to vote.
-
-**Table 1: Corporate report types in the Laser D collection**
+>**Table 1: Corporate report types in the Laser D collection**
 
 ## Full report
 
