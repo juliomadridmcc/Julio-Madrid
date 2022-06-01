@@ -3,8 +3,8 @@
 * [Introduction to the Laser D](#introduction-to-the-laser-d-project)
 * [Background on Laser D](#background-on-laser-d)
 * [Corporate report filings](#corporate-report-filings)
-  * [Report types](#report-types)
- * [Full report](#full-report)
+  - [Report types](#report-types)
+* [Full report](#full-report)
 
 ## Introduction to the Laser D project
 
