@@ -1,49 +1,48 @@
-# Resume
-Recent graduate of the Middlesex Technical Writing Certificate program with exposure to software and processes related to technical communication. Strengths include writing, research, and a willingness to learn new tools.
+# How to complete the Laser D project: A guide for new hires
 
-- [Tools](#tools)
-- [Experience](#experience)
-- [Education](#education)
-- [Writing](#writing)
+- [Introduction to the Laser D](#introduction-to-the-laser-d-project)
+- [Background on Laser D](#background-on-laser-d)
+- [Corporate report filings](#corporate-report-filings)
+  
+  - [Report types](#report-types)
+ 
+ - [Full report](#full-report)
 
-## Tools
-**Authoring:** DITA, Oxygen XML Author, Adobe FrameMaker, and Microsoft Word
+## Introduction to the Laser D project
 
-**Languages:** HTML, CSS, Markdown, and reStructured Text
+The primary goal of the Laser D project is to extract and index corporate document files from your library’s Laser D collection within 9-12 months of starting. These files must be transferred from compact discs and saved electronically. Academic libraries across the U.S are funding resources to accomplish this endeavor, including the hiring of paid interns.
 
-**Graphics:** Adobe Photoshop and Microsoft Visio
+The Laser D collection contains U.S. and international reports from publicly filing companies. MBA students need these reports for their academic research, but these documents are in danger of erasure due to the obsolescence of their media and software.
 
-**Other:** Excel, PowerPoint, GitHub, MadCap Flare, and SAS
+The Laser D software contains indiscernible code that prevents access to Laser D files on the CDs. A recent programming breakthrough enables the extraction and indexing of these files for electronic access. Upon completion of this project, graduate students can access the entire collection of reports.
 
-## Experience
-**Office Assistant, Euro Tech Auto Body Inc., Cambridge, MA (2019- Present)**
-- Streamline procedures related to office services, identifying and resolving customer concerns, scheduling appointments, and creating an organized filing system
--	Cultivate strong partnerships with nearby businesses to facilitate the exchange of products and services
--	Use collision repair software to insert details related to vehicle damages and to retrieve customer information to answer questions on status of vehicle repairs
-- Earned positive feedback and recognition for excellent customer service on surveys and online reviews
+## Background on Laser D
 
-**Intern, Baker Library at Harvard Business School, Boston, MA (2016- 2018)**
--	Rescued an invaluable collection of reports from deterioration for Harvard Business School, Princeton University, and MIT researchers
--	Exported 5.8 million company reports from Laser D discs and saved them electronically; expedited the process by using multiple computers simultaneously
--	Cultivated cross functional relationships that ensured the successful completion of projects
--	Used Microsoft Excel for entering data and reviewing Fortune 500 information
--	Earned multiple extensions on the internship as a result of my work
+Laser D is a computer-based document storage system that provides access to important corporate documents filed with the Securities and Exchange Commission (SEC). Laser D combines image-scanning technology with the high-storage capacity of CDs. 
 
-## Education
-Middlesex Technical Writing Program, Bedford, MA
+The significance of Laser D stems from it being the main source for reports following the cessation of Disclosure microfiche subscriptions in 1992, and partly because it preceded mandated electronic report filings with the SEC in the late 1990s. As a result, a single collection may contain millions of reports.
 
-**Technical Writing Certificate (issued May 2022)**
+## Corporate report filings
 
-University of Massachusetts Lowell, Lowell, MA  
+CDs contain U.S. and international public company reports from 11,000 filing public companies. 
 
-**B.A., Philosophy; Minor in History**
+### Report types
 
-## Writing
+Laser D includes the following report types: 10-Ks, 10-Qs, 8-Ks, 6-Ks, 10-Cs, N-1Rs, ARSs, and proxy statements (See Table 1).
 
-["How to Complete the Laser D Project at Academic Libraries: A Guide for New Hires"](https://github.com/juliomadridmcc/Julio-Madrid/files/8744655/Final.Project.on.Laser.D.docx)
+Report Type | Description
+----------|-----------
+10-Ks | Annual business and financial reports.
+10-Qs | Quarterly income statements and balance sheets. 
+8-Ks | Unscheduled material events.
+6-Ks | Unscheduled material events and/or financials for foreign filers.
+10-Cs | Changes in name or number of NASDAQ-listed securities.
+N-1Rs | Annual or semi-annual report for registered investment companies.
+ARSs | Annual reports to shareholders.
+Proxy Statements | Notice of shareholder meeting and submission of matters to vote.
 
-[First MadCap Flare Project: What is MadCap Flare?](https://github.com/juliomadridmcc/Julio-Madrid/files/8744658/MadCap.Project-.JM.zip)
+**Table 1: Corporate report types in the Laser D collection**
 
-[Script for Short MadCap Flare Tutorial](https://github.com/juliomadridmcc/Julio-Madrid/files/8744662/Week.14.Homework-.MadCap.Flare.Script-.Julio.Madrid.docx)
+## Full report
 
-[JBL Tune 510BT vs Apple Airpods 3: A Recommendation](https://github.com/juliomadridmcc/Julio-Madrid/files/8744673/JBL.Tune.510BT.vs.Apple.Airpods.A3.1.docx)
+For more information on the Laser D project, click [here](https://github.com/juliomadridmcc/Julio-Madrid/files/8744655/Final.Project.on.Laser.D.docx) for the full report.
