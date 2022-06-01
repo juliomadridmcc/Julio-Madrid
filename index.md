@@ -38,8 +38,8 @@ N-1Rs | Annual or semi-annual report for registered investment companies.
 ARSs | Annual reports to shareholders.
 Proxy Statements | Notice of shareholder meeting and submission of matters to vote.
 
->**Table 1: Corporate report types in the Laser D collection**
+**Table 1: Corporate report types in the Laser D collection**
 
 ## Full report
 
-For more information on the Laser D project, click [here](https://github.com/juliomadridmcc/Julio-Madrid/files/8744655/Final.Project.on.Laser.D.docx) for the full report.
+For more information on the Laser D project, click [here] to download the full report.
