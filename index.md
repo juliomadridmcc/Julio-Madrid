@@ -40,6 +40,6 @@ Proxy Statements | Notice of shareholder meeting and submission of matters to vo
 
 **Table 1: Corporate report types in the Laser D collection**
 
-## Full report
+## Full guide
 
 For more information on the Laser D project, click [here](https://github.com/juliomadridmcc/Julio-Madrid/files/8818190/Final.on.Laser.D.Project.docx) to download the full guide.
