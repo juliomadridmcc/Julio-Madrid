@@ -3,7 +3,7 @@
 * [Introduction to the Laser D](#introduction-to-the-laser-d-project)
 * [Background on Laser D](#background-on-laser-d)
 * [Corporate report filings](#corporate-report-filings)
-* [Full report](#full-report)
+* [Full guide](#full-guide)
 
 ## Introduction to the Laser D project
 
@@ -42,4 +42,4 @@ Proxy Statements | Notice of shareholder meeting and submission of matters to vo
 
 ## Full report
 
-For more information on the Laser D project, click [here](https://github.com/juliomadridmcc/Julio-Madrid/files/8818190/Final.on.Laser.D.Project.docx) to download the full report.
+For more information on the Laser D project, click [here](https://github.com/juliomadridmcc/Julio-Madrid/files/8818190/Final.on.Laser.D.Project.docx) to download the full guide.
