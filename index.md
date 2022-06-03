@@ -1,6 +1,6 @@
 # How to complete the Laser D project: A guide for new hires
 
-* [Introduction to the Laser D](#introduction-to-the-laser-d-project)
+* [Introduction to the Laser D project](#introduction-to-the-laser-d-project)
 * [Background on Laser D](#background-on-laser-d)
 * [Corporate report filings](#corporate-report-filings)
 * [Full guide](#full-guide)
