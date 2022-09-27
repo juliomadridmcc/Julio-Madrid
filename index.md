@@ -42,4 +42,5 @@ Proxy Statements | Notice of shareholder meeting and submission of matters to vo
 
 ## Full guide
 
-For more information on the Laser D project, click [here][Laser D Project Guide.pdf](https://github.com/juliomadridmcc/Julio-Madrid/files/9650394/Laser.D.Project.Guide.pdf) to download the full guide.
+For more information on the Laser D project, click [here](https://github.com/juliomadridmcc/Julio-Madrid/files/9650410/Laser.D.Project.Guide.pdf) to download the full guide.
+
